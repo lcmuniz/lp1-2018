@@ -1,3 +1,5 @@
+// Faça um programa que peça números para o usuários (até que este digite -1)
+// e some apenas os números ímpares e imprima a soma e sua média.
 
 #include <stdio.h>
 
