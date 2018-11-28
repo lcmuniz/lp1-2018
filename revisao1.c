@@ -1,3 +1,5 @@
+// Faça um programa que peça ao usuário 10 números e os armazene em um vetor.
+// Depois, imprima o vetor invertido.
 
 #include <stdio.h>
 
